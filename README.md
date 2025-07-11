@@ -1,4 +1,4 @@
-# Gabs Memcached Sizing Calculator
+# Redis SAs - Memcached Sizing Calculator
 
 A minimal tool to **measure dataset size and throughput (ops/sec)** of a running Memcached instance.
 
